@@ -29,5 +29,5 @@ A comprehensive image-level editor designed for contextual validation. It allows
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/Willayat060/YOLO-Validation-Tools.git](https://github.com/Willayat060/data_annotating-tool.git)
-   cd data_annotating-tool
+   git clone [https://github.com/Willayat060/YOLO-Validation-Tools.git](https://github.com/Willayat060/Data_annotating_tool.git)
+   cd data_annotating_tool
